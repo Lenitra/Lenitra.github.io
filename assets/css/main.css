@@ -3436,14 +3436,15 @@
 	}
 
 	#header {
-		/* background: rgba(0, 0, 0, 0.75); */
+		background: black;
+		opacity: 0.8;
 		color: #a6a6a6;
 		cursor: default;
 		height: 3.25em;
 		left: 0;
 		line-height: 3.25em;
 		position: fixed;
-		text-align: right;
+		text-align: center;
 		top: 0;
 		width: 100%;
 		z-index: 10001;
